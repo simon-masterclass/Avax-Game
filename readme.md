@@ -1,7 +1,7 @@
-# Avax Gods - Online Multiplayer Web3 NFT Card Game
+# Avax Gods - Online Multiplayer NFT Onchain Card Game
 ![Gameplay](https://i.ibb.co/4P2C08x/image.png)
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+### Playing around with Avalanche blockchain game code - special thanks to [JSM](https://www.jsmastery.pro/)!
 
 ## Instructions on setting up the Web3 part of the project
 0. `cd web3`
